@@ -12,6 +12,8 @@
 - [ ] 사양 설정
 - [ ] 공유 디렉터리 설정
 
+---
+
 ## 가상머신 이름
 
 문서: [Multi-Machine](https://www.vagrantup.com/docs/multi-machine/)
