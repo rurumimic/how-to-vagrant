@@ -8,6 +8,10 @@ HashiCorp's [Vagrant](https://www.vagrantup.com)
 
 명령어 한 번만으로 VM을 설치, 실행, 종료까지 할 수 있다.  
 
+## 용어
+
+[**provisioning**](https://en.wikipedia.org/wiki/Provisioning_(telecommunications)): 맞춤 시스템 자원을 필요할 때 즉시 사용할 수 있도록 준비하는 것.
+
 ## 목차
 
 1. Vagrant 실행
@@ -21,7 +25,7 @@ HashiCorp's [Vagrant](https://www.vagrantup.com)
    1. [Vagrant 일시정지/종료](#vagrant-일시정지종료)
    1. [Vagrant 재개/실행](#vagrant-재개실행)
    1. [Vagrant Help](#vagrant-help)
-1. [Vagrantfile 설정 (수정 중)](vagrantfile.md)
+1. [Vagrantfile 설정](vagrantfile.md)
 
 ---
 
